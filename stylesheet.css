@@ -4,7 +4,7 @@
     left: 100px;
     right: 100px;
     top: 50px;
-    bottom: 20px;
+    bottom: 120px;
     background-color: white;
     border-radius: 20px;
 }
@@ -13,11 +13,11 @@
     position: absolute;
     left: 100px;
     right: 100px;
-    top: 750px;
+    top: 800px;
     bottom: -140px;
     background-color: white;
     border-radius: 20px;
 }
 body {
-    background-color: blue;
+    background-color: black;
 }
